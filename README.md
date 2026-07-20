@@ -3,7 +3,7 @@
 ## 📌 Project Overview
 In heavy manufacturing and fabrication, tracking welding defects is critical for structural integrity and cost control. This project provides a business intelligence dashboard designed to monitor Welder Performance and analyze Defect Per Unit (DPU) metrics. 
 
-![Alternative Text](Screenshot2026-07-20222858.png)
+![Alternative Text](welder-performance.png)
 
 
 
